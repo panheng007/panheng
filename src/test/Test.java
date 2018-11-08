@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("007又提交了");
 		System.out.println("007");
 		System.out.println("008分支提交");
+		System.out.println("007master提交");
 	}
 	
 
